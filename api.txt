@@ -1,0 +1,13 @@
+/api/user/get_users get
+
+"{ 
+	token: 'xxx', 
+}"
+
+
+"{
+        success: true, 
+        message: ""abc"",
+        conversation_id: ""xxx"",
+        conversation_name: ""abc"",
+}"

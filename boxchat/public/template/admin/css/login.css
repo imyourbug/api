@@ -1,0 +1,15 @@
+body {
+    justify-content: center;
+    display: flex;
+}
+
+.form-login {
+    border: 1px solid black;
+    width: fit-content;
+    margin-top: 10%;
+}
+
+.btn-login {
+    border: none;
+    background-color: #F9423A;
+}
